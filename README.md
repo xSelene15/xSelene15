@@ -25,8 +25,8 @@
 
 ## 🎨 Intereses
 - 🎨 **Dibujo y Pintura**: Siempre buscando nuevas formas de expresar mi creatividad a través del arte.
-- 🎮 **Videojuegos**: Disfruto explorar mundos virtuales y diseñar experiencias interactivas.
-- 🎹 **Piano**: La música es una gran fuente de inspiración para mí, tanto al tocar como al componer.
+- 🎮 **Videojuegos**: Disfruto explorar mundos virtuales.
+- 🎹 **Piano**: La música es una gran fuente de inspiración para mí.
 - 💻 **Diseño Gráfico**: Me encanta el diseño visual y crear interfaces de usuario atractivas y funcionales.
 
 ## 📫 ¡Conéctate conmigo!
