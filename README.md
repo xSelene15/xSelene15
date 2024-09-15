@@ -32,9 +32,5 @@
 ## 📫 ¡Conéctate conmigo!
 Si quieres saber más o colaborar en algún proyecto, no dudes en contactarme.
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/xSelene15)
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 📫 How to reach me: ...
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/xSelene15) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evelyn-ignacia-lopez-baeza/)
 
